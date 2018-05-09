@@ -1,5 +1,5 @@
 # decision-tree
-**Implementation of Decision tree Using ID3 algorithm**
+**Implementation of Decision tree classfier using ID3 algorithm**
 
 Language Used:
 -------------
