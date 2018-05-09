@@ -9,28 +9,48 @@ The program is designed to work well on mutli valued attributes. The values arra
   
 **Pre-Pruned Accuracy**
 Number of training instances = 100
+
 Number of training attributes = 5
+
 Total number of nodes in the tree = 20
+
 Number of leaf nodes in the tree = 8
+
 Accuracy of the model on the training dataset = 81.2%
+
 Number of validation instances = 50
+
 Number of validation attributes = 5
+
 Accuracy of the model on the validation dataset before pruning = 72.1%
+
 Number of testing instances = 20
+
 Number of testing attributes = 5
+
 Accuracy of the model on the testing dataset = 60.8%
 
 **Post-Pruned Accuracy**
 Number of training instances = 100
+
 Number of training attributes = 5
+
 Total number of nodes in the tree = 20
+
 Number of leaf nodes in the tree = 8
+
 Accuracy of the model on the training dataset = 81.2%
+
 Number of validation instances = 50
+
 Number of validation attributes = 5
+
 Accuracy of the model on the validation dataset before pruning = 72.1%
+
 Number of testing instances = 20
+
 Number of testing attributes = 5
+
 Accuracy of the model on the testing dataset = 60.8%
 
 Language Used:
