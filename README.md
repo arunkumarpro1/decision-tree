@@ -1,5 +1,5 @@
 # decision-tree
-**Implementation of Decision tree classfier using ID3 algorithm**
+**Implementation of Decision tree classifier using ID3 algorithm**
 
 The program is designed to work well on mutli valued attributes. The values array in the code must be updated with the permissible values for the attributes. The fully grown decision tree is pruned according to the given prune factor.
 
